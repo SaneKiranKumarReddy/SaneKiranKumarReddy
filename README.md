@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaneKiranKumarReddy
+- 👋 Hi, I’m @SaneKiranKumarReddy (Kiran)
 - 👀 I’m interested in computer networking, logic building,data structures and algorithms ,  and React Application development.
 - 🌱 I’m currently learning Block chain development, as well as improving my problem-solving skills.
 - 💞️ I’m looking to collaborate on React projects , Java projects- especially those involving data structures and algorithms.
